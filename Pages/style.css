@@ -3,6 +3,7 @@ body {
   color: rgb(0, 255, 242);
   padding: 30px;
   margin: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 li {
   list-style-type: none;
