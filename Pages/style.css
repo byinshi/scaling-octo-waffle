@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: rgb(0, 255, 242);
+  padding: 30px 30px;
+  margin: 20px;
+}
+li {
+  list-style: none;
+  display: inline;
+  margin: 0px;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+# form label {
+  display: block;
+}
